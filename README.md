@@ -1,6 +1,9 @@
 # Super Assembly Brothers
 An extremely simple game of Mario Bros. built entirely in pure Assembly Language.
 
+# Demonstration
+[![Watch the video](https://i9.ytimg.com/vi/WXhxAhiA3co/mqdefault.jpg?v=63220c93&sqp=CMCaiJkG&rs=AOn4CLBArT84beTaEN_htoLoJagJRENmeg)](https://youtu.be/WXhxAhiA3co)
+
 # Disclaimer
 All of the assets you see inside were built by me, pixel-by-pixel. However, all credits to the art, music, and whatever is relevant here goes to Nintendo, for creating a (particularly awesome) franchise. I claim no ownership apart from the code.
 

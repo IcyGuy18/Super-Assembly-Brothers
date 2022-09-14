@@ -2,6 +2,7 @@
 An extremely simple game of Mario Bros. built entirely in pure Assembly Language.
 
 # Demonstration
+Click on the image below and watch the game in action!
 [![Watch the video](https://i9.ytimg.com/vi/WXhxAhiA3co/mqdefault.jpg?v=63220c93&sqp=CMCaiJkG&rs=AOn4CLBArT84beTaEN_htoLoJagJRENmeg)](https://youtu.be/WXhxAhiA3co)
 
 # Disclaimer
